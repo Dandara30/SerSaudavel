@@ -1,0 +1,43 @@
+Objetivo do Aplicativo:
+
+- Ajudar o usuário a lembrar de se Hidaratar durante o dia, através de Alarmes e controle via tela ao realizar a hidratação.
+- Listar as atividades físicas programadas naquele dia.
+
+Lista de Atividades Futuras:
+
+- Melhorar a tela de Cadastro, adicionando a tela de cadastro de Atividades Físicas.
+- Configurar Alarme para Hidratação utilizando Intent.
+- Melhorar a tela Principal, onde podemos visualizar os outros dias da Semana.
+- Carregar a lista de atividades física apenas do dia.
+
+Links utilizados para o desenvolvimento
+
+-Exemplo de Paleta de cores
+https://coolors.co/palettes/trending
+
+-Icones
+https://www.flaticon.com/
+
+- Criação no background gradient
+https://medium.com/@evangelidisapps/android-how-to-set-gradient-color-as-background-7812c4cf06ec
+
+- Configuracao de Alarme
+https://developer.android.com/training/scheduling/alarms
+
+Créditos
+
+Icone: Logo do APP
+Fonte: https://www.flaticon.com/br/icone-gratis/saude_2114422?term=estilo%20de%20vida%20saud%C3%A1vel&related_id=2114422
+autor: smalllikeart
+
+Icone: corrida
+Fonte: https://www.flaticon.com/br/icone-gratis/corrida_2843661?term=corrida&page=1&position=65&page=1&position=65&related_id=2843661&origin=search
+autor: iconixar
+
+Icone: crossfit
+Fonte: https://www.flaticon.com/br/icone-gratis/atleta_1425155?term=crossfit&page=1&position=61&page=1&position=61&related_id=1425155&origin=style
+autor: Freepik
+
+Icone: Muay Thai
+Fonte: https://www.flaticon.com/br/icone-gratis/saco-de-boxe_1869364?term=boxe&page=1&position=29&page=1&position=29&related_id=1869364&origin=search
+autor: DinosoftLabs

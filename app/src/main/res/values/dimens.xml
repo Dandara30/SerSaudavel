@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_screen">24dp</dimen>
+    <dimen name="size_label">16sp</dimen>
+    <dimen name="size_field">14sp</dimen>
+    <dimen name="height_size">35dp</dimen>
+</resources>
