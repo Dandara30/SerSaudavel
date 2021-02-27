@@ -10,6 +10,6 @@
 
     <color name="titulo_cor">#ff006e</color>
     <color name="linha">#f5cac3</color>
-    <color name="fundo_botao">#f5cac3</color>
+    <color name="fundo_botao">@color/purple_500</color>
 
 </resources>
